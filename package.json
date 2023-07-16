@@ -1,0 +1,19 @@
+{
+  "name": "ip-calculator",
+  "version": "1.0.0",
+  "description": "calculadora ip",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ip",
+    "networking",
+    "calculator"
+  ],
+  "author": "AlanDev99 <vinals.alan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
